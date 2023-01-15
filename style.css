@@ -84,7 +84,7 @@ nav ul li a:hover{
    
     max-width: 100%;
     -o-object-fit: cover;
-
+    object-fit: cover;
  }
  .main{
 
